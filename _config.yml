@@ -1,10 +1,10 @@
 # Site Settings
-title: My GitHub Pages Site
+title: Connor Howe
 description: A personal blog built using GitHub Pages.
-author: Your Name
-email: your.email@example.com
+author: Connor Howe
+email: howe0427@umn.edu
 baseurl: "" # Leave blank unless the site is not at the root of the domain
-url: "https://your-username.github.io" # Your GitHub Pages site URL
+url: "https://cwhowe.github.io" # Your GitHub Pages site URL
 
 # Theme
 theme: minima # Replace with your preferred Jekyll theme
@@ -12,9 +12,7 @@ theme: minima # Replace with your preferred Jekyll theme
 # Social Links (optional)
 social_links:
   - name: GitHub
-    url: https://github.com/your-username
-  - name: Twitter
-    url: https://twitter.com/your-handle
+    url: https://github.com/cwhowe
 
 # Plugins
 plugins:
@@ -24,6 +22,3 @@ plugins:
 # Exclude files or directories from the site
 exclude:
   - README.md
-  - node_modules/
-  - Gemfile
-  - Gemfile.lock
